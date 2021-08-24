@@ -16,5 +16,5 @@ F1 = 2 * (precision * recall) / (precision + recall)
 ## Hyperparameter Tuning
 * Randomized Search
 
-#Team 5: Laura Salazar Ramírez - Wilmar González Medina - Johan E. López Cifuentes
+# Team 5: Laura Salazar Ramírez - Wilmar González Medina - Johan E. López Cifuentes
 ## Thanks to the Factored AI team, especially Santiago Hernández Torres, Carlos Miguel Patiño and Camilo Velasquez.
